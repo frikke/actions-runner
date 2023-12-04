@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "developer" branch
   push:
-    branches: [ "developer" ]
+    branches: [ "develompent " ]
   pull_request:
-    branches: [ "developer" ]
+    branches: [ "development" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
